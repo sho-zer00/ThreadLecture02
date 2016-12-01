@@ -1,0 +1,1 @@
+ThreadLectureで使うRunnableを用いたAndroidProjectです。
